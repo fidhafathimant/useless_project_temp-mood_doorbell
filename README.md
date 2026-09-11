@@ -10,9 +10,8 @@
 
 
 ### Team Members
-- Team Lead: [MEHJEBIN NASAR] - [MESCET KUNNUKARA]
-- Member 2: [FIDHA FATHIMA ] - [MESCET KUNNUKARA]
-- Member 3: [FIDHA M R] - [MESCET KUNNUKARA]
+- Team Lead:[FIDHA FATHIMA ] - [MESCET KUNNUKARA]
+- Member 2: [FIDHA M R] - [MESCET KUNNUKARA]
 
 ### Project Description
 [A doorbell that reads faces. Ring it, and the camera wakes up, analyses your visitor's expression using on-device AI, speaks a greeting tailored to their mood, and adds a colour-coded alert to your activity log. Happy visitor? Cheerful welcome. Angry visitor? Brace yourself — it already warned you.]
